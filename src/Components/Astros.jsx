@@ -30,6 +30,7 @@ const Astros = () => {
             .catch(err => console.error(err))
     }
 
+    
     console.log(astros);
     return (
         <>
